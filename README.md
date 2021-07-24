@@ -41,6 +41,14 @@ For further information - [HCP Dataset Release Reference Manual](https://www.hum
 
 ### Results
 
+We extracted 20 regions (parcels) from the contrast analysis which showed the highest activity in average of all conditions in 2 back v/s 0 back. These regions were verified by the t-test of average beta values obtained from the GLM after the timeseries was convolved with hemodynamic response function. The Functional Connectivity was calculated as a group and individual subjects and the average (across all conditions for 2 back) median response times were regressed against these FC values. Pearson's correlation coefficient of approximately 0.08 was obtained for top 20 regions (p_value = 0.15) and Pearson's correlation coefficient of approximately 0.04 was obtained for all 360 regions (p_value = 0.44). These results are not stastically significant but they show a trend which should be explored via sophisticated analysis technqiues and more robust analyses.
+
+![Result-GLM](https://github.com/Consilium5128/NMA-BrainActivity-FC-WM/blob/main/Analysis-Results/brave-neurons%20NMA%20project%20(2).png)
+
+![Result-Contrast](https://github.com/Consilium5128/NMA-BrainActivity-FC-WM/blob/main/Analysis-Results/brave-neurons%20NMA%20project%20(1).png)
+
+![Result-FC](https://github.com/Consilium5128/NMA-BrainActivity-FC-WM/blob/main/Analysis-Results/brave-neurons%20NMA%20project.png)
+
 ### Future Work
 
 - Describe FC patterns within other ROIs (i.e., Default Mode Network, Multi-Modal networks) and correlate or anti-correlate with performance
@@ -50,6 +58,6 @@ For further information - [HCP Dataset Release Reference Manual](https://www.hum
 
 We wholeheartedly acknowledge Dr. Jonathan Wirsirch (Project Mentor), Nicholas Blauch (Project TA), and Ishani Ganguly (Pod TA) for their valuable guidance and mentorship. We also acknowledge all the efforts, opportunities, and support provided by the entire Neuromatch Academy team.
 
-### Brave-neurons (Team)
+### Brave-neurons (Group)
 
 Ahmad Samara, Romeo Penheiro, Saksham Pruthi
