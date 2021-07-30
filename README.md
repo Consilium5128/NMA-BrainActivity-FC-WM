@@ -51,6 +51,7 @@ We extracted 20 regions (parcels) from the contrast analysis which showed the hi
 
 ### Future Work
 
+- Explore the trend seen of the correlation of FC with performance across various regressors of performance
 - Describe FC patterns within other ROIs (i.e., Default Mode Network, Multi-Modal networks) and correlate or anti-correlate with performance
 - Applying approaches with higher sophistication for a better insight for predicting task performance using Functional Connectivity as well as increase robustness of analysis
 
