@@ -37,7 +37,7 @@ For further information - [HCP Dataset Release Reference Manual](https://www.hum
 - Average activity during the 0-back was subtracted from the 2-back task across the brain regions to identify the regions with the highest activity
 - Regions with the contrast analysis during working memory task was determined by contrast analysis and verified by statistical t-test using beta values from a GLM
 - Networks consisting of these regions was used to compute the patterns of functional connectivity (FC) during the task
-- We calculated the correlation between average FC values and performance (median response times) in the WM task
+- We calculated the correlation between average FC values and performance (median response times) in the 2 back WM task
 
 ### Results
 
