@@ -4,7 +4,7 @@
 
 ### Project Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eeCqV9JxCY2jgcivk-ftc0MZQ2WCVkfT?usp=sharing) or [Github](https://github.com/Consilium5128/NMA-BrainActivity-FC-WM/blob/main/Brain_Activity_and_FC_WM_HCP_NMA2021_BraveNeurons.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ahbJY3DDF4deaQqE13PCliklKVVbjkZr?usp=sharing) or [Github](https://github.com/Consilium5128/NMA-BrainActivity-FC-WM/blob/main/Brain_Activity_and_FC_WM_HCP_NMA2021_BraveNeurons.ipynb)
 
 ### Project Presentation
 
