@@ -57,7 +57,7 @@ We extracted 20 regions (parcels) from the contrast analysis which showed the hi
 
 ### Acknowledgement
 
-We wholeheartedly acknowledge Dr. Jonathan Wirsirch (Project Mentor), Nicholas Blauch (Project TA), and Ishani Ganguly (Pod TA) for their valuable guidance and mentorship. We also acknowledge all the efforts, opportunities, and support provided by the entire Neuromatch Academy team.
+We wholeheartedly acknowledge Dr. Jonathan Wirsich (Project Mentor), Nicholas Blauch (Project TA), and Ishani Ganguly (Pod TA) for their valuable guidance and mentorship. We also acknowledge all the efforts, opportunities, and support provided by the entire Neuromatch Academy team.
 
 ### Brave-neurons (Group)
 
